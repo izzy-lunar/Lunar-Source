@@ -1,0 +1,149 @@
+[ACCOUNT]
+character-username = Sss
+character-password = sss
+character-lastvote = Never
+character-playtime = 1457598905243
+
+[CHARACTER]
+character-height = 0
+starter = 1
+character-posx = 2781
+character-posy = 10068
+character-rights = 0
+character-rank = 1
+slayer-task = none
+slayer-amount = 0
+defender-drop = 8845
+
+crystal-bow-shots = 0
+skull-timer = 0
+magic-book = 0
+brother-info = 0	0
+brother-info = 1	0
+brother-info = 2	0
+brother-info = 3	0
+brother-info = 4	0
+brother-info = 5	0
+special-amount = 10.0
+selected-coffin = 0
+barrows-killcount = 0
+teleblock-length = 0
+pc-points = 0
+gd-slot = 0
+d-points = 0.0
+w-points = 0
+agpoints = 0
+chat-toggle = false
+summonId = 0
+magePoints = 0
+autoRet = 0
+barrowskillcount = 0
+flagged = false
+wave = 0
+ep = 0
+gwkc = 0
+jail = 0
+cl4n = ownxile
+brightness = 4
+fightMode = 0
+void = 0	0	0	0	0
+kills = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+pets = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+[QUESTS]
+qo = 0
+quest = 0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+
+[EQUIPMENT]
+character-equip = 0	-1	1	
+character-equip = 1	-1	1	
+character-equip = 2	-1	1	
+character-equip = 3	-1	0	
+character-equip = 4	-1	1	
+character-equip = 5	-1	1	
+character-equip = 6	-1	0	
+character-equip = 7	-1	1	
+character-equip = 8	-1	0	
+character-equip = 9	-1	1	
+character-equip = 10	-1	1	
+character-equip = 11	-1	0	
+character-equip = 12	-1	1	
+character-equip = 13	-1	0	
+
+[LOOK]
+character-look = 0	0
+character-look = 1	3
+character-look = 2	18
+character-look = 3	26
+character-look = 4	33
+character-look = 5	36
+character-look = 6	42
+character-look = 7	14
+character-look = 8	3
+character-look = 9	1
+character-look = 10	2
+character-look = 11	0
+character-look = 12	0
+
+[SKILLS]
+character-skill = 0	1	0
+character-skill = 1	1	0
+character-skill = 2	1	0
+character-skill = 3	10	1300
+character-skill = 4	1	0
+character-skill = 5	1	0
+character-skill = 6	1	0
+character-skill = 7	1	0
+character-skill = 8	1	0
+character-skill = 9	1	0
+character-skill = 10	1	0
+character-skill = 11	1	0
+character-skill = 12	1	0
+character-skill = 13	1	0
+character-skill = 14	1	0
+character-skill = 15	1	0
+character-skill = 16	1	0
+character-skill = 17	1	0
+character-skill = 18	1	0
+character-skill = 19	1	0
+character-skill = 20	1	0
+character-skill = 21	1	0
+character-skill = 22	1	0
+character-skill = 23	1	0
+character-skill = 24	1	0
+
+[ITEMS]
+character-item = 0	10587	1
+character-item = 1	10587	1
+character-item = 2	10587	1
+character-item = 3	10587	1
+character-item = 4	10587	1
+character-item = 5	10587	1
+character-item = 6	10587	1
+character-item = 7	996	1500000
+character-item = 8	8013	10
+character-item = 9	8014	10
+character-item = 10	556	800
+character-item = 11	9706	1
+character-item = 12	9707	1000
+character-item = 13	9704	1
+character-item = 14	9705	1
+character-item = 15	159	10
+character-item = 16	147	10
+character-item = 17	3026	5
+character-item = 18	387	100
+character-item = 19	561	400
+character-item = 20	566	200
+character-item = 21	893	200
+character-item = 22	5700	5
+character-item = 23	4589	3
+character-item = 24	863	5
+character-item = 25	1706	5
+character-item = 26	11120	5
+
+[BANK]
+
+[FRIENDS]
+
+[EOF]
+

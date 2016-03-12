@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+
+
+	<entry key="load_plugins">true</entry>
+	<entry key="members_world">true</entry>
+	<entry key="highscores_enabled">false</entry>
+	<entry key="double_xp">false</entry>
+	<entry key="database_enabled">false</entry>
+	<entry key="database_name"> </entry>
+	<entry key="database_user"> </entry>
+	<entry key="database_pass"> </entry>
+</properties>

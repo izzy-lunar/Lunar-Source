@@ -1,0 +1,1 @@
+java -classpath bin:etc/libs/* rune.GameServer
